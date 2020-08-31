@@ -1,0 +1,19 @@
+{
+  "name": "@neven4/react-tabs",
+  "version": "1.0.0",
+  "description": "Tabs library for React",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Kirill Kazakov <@neven4>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.9.49",
+    "typescript": "^4.0.2"
+  },
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
