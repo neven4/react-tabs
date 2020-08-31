@@ -15,5 +15,10 @@
   },
   "dependencies": {
     "react": "^16.13.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neven4/react-tabs.git"
+  },
+  "keywords": ["React", "TypeScript", "Tab", "Tabs", "React-Tabs"]
 }
