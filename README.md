@@ -1,8 +1,6 @@
-# neven4-react-tabs [[![npm version](https://img.shields.io/npm/v/neven4-react-tabs.svg)]]
+# neven4-react-tabs ![npm version](https://img.shields.io/npm/v/neven4-react-tabs.svg)
 
 An accessible and easy tab component for ReactJS.
-
-https://reactcommunity.org/react-tabs/
 
 > Supports React 16.3.0 or newer
 
